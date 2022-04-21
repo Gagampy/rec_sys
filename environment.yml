@@ -1,0 +1,7 @@
+name: vb_recsys_course
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - pyarrow
