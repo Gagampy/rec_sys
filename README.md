@@ -1,5 +1,5 @@
 # rec_sys
-EPAM recommender system advanced course
+Recommender system advanced course
 
 # Environment setup:
 `conda env create -f environment.yml & conda activate vb_recsys_course`
