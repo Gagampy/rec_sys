@@ -4,3 +4,6 @@
 .DS_Store
 */__pycache__/
 */*/__pycache__/
+/RecSys.Task0.Implementation.ipynb
+/Untitled.ipynb
+/.ipynb_checkpoints/
