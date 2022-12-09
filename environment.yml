@@ -1,0 +1,14 @@
+name: vb_recsys_course
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - pyarrow
+  - kaggle
+  - fire
+  - scikit-learn
+  - pip
+  - pip:
+      - "--editable=git+git://github.com/gbolmier/funk-svd@master#egg=funk-svd"
