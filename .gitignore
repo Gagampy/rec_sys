@@ -24,3 +24,4 @@
 /artefacts/task_1/*.pkl
 /artefacts/task_1/*.npz
 /tasks_solutions/.ipynb_checkpoints/
+/notebooks/.ipynb_checkpoints/
